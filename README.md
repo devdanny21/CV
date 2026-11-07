@@ -7,10 +7,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-14171A?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-14171A?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-14171A?style=flat-square&logo=javascript&logoColor=white)
-![No build step](https://img.shields.io/badge/build-none-C23B22?style=flat-square)
-![Dependencies](https://img.shields.io/badge/dependencies-0-C23B22?style=flat-square)
-
-<img src="docs/preview.png" alt="Preview of the portfolio hero section" width="880">
 
 </div>
 

@@ -120,4 +120,4 @@ Current versions of Chrome, Edge, Firefox and Safari. The page needs CSS custom 
 ## Contact
 
 - GitHub: [@devdanny21](https://github.com/devdanny21)
-- Discord: `devdanny21`
+- Discord: `@ma3402`
